@@ -1,3 +1,5 @@
+# Giới thiệu
+
 Laboratory Information Management System (viết tắt là LIMS) là Hệ thống phần mềm quản lý thông tin phòng xét nghiệm với các chức năng chính bao gồm:
 
 	Hệ thống:

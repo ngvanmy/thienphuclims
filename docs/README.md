@@ -7,7 +7,7 @@ II.	HƯỚNG DẪN SỬ DỤNG	2
 1.2.	Quản lý khoa	4
 1.3.	Quản lý phòng ban	6
 1.4.	Quản lý chức vụ	8
-1.5.	Quản lý nhân viên	9999
+1.5.	Quản lý nhân viên	10
 2.	QUẢN LÝ DANH MỤC	13
 2.1.	Khách hàng	13
 2.2.	Lĩnh vực	15

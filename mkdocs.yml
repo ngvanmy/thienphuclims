@@ -1,0 +1,10 @@
+site_name: Marshmallow Generator
+site_name: MkLorum
+nav:
+    - Home: gioi_thieu.md
+    - About: Dụng cụ thủy tinh.md
+theme: readthedocs
+site_url: null
+repo_url: https://github.com/example/repository/
+repo_name: 'hai'
+edit_uri: root/path/docs/

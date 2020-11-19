@@ -39,4 +39,7 @@ site_url: null
 repo_url: null
 repo_name: 'hai'
 extra_css: [custom/extra.css]
+formats:
+  - epub
+  - pdf
 

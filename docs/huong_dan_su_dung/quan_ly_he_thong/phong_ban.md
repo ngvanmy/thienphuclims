@@ -2,8 +2,8 @@
 
 Quản lý danh sách phòng ban bao gồm: thêm mới phòng ban, cập nhật, xóa thông tin phòng ban.
 
-![](/images/he_thong/phong_ban/index.png "Giao diện chính - Quản lý phòng ban")
+![](https://i.imgur.com/QTImuvB.png "Giao diện chính - Quản lý phòng ban")
 
-![](/images/he_thong/phong_ban/create.png "Thêm mới/cập nhật thông tin phòng ban")
+![](https://i.imgur.com/ta9sg3L.png "Thêm mới/cập nhật thông tin phòng ban")
 
-![](/images/he_thong/phong_ban/delete.png "Xóa phòng ban")
+![](https://i.imgur.com/Ac7Mpr8.png "Xóa phòng ban")

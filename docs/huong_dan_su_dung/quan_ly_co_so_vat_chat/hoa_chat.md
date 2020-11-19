@@ -2,10 +2,10 @@
 
 Quản lý danh sách các hóa chất bao gồm: thêm mới, cập nhật, xóa hóa chất.
 
-![](/images/co_so_vat_chat/hoa_chat/Index.png "Giao diện chính - Danh sách hóa chất")
+![](https://i.imgur.com/2QeTPiz.png "Giao diện chính - Danh sách hóa chất")
 
-![](/images/co_so_vat_chat/hoa_chat/Create.png "Thêm mới hóa chất")
+![](https://i.imgur.com/dN3tmhm.png "Thêm mới hóa chất")
 
-![](/images/co_so_vat_chat/hoa_chat/Edit.png "Cập nhật hóa chất")
+![](https://i.imgur.com/TlPZJ1q.png "Cập nhật hóa chất")
 
-![](/images/co_so_vat_chat/hoa_chat/Delete.png "Xóa hóa chất")
+![](https://i.imgur.com/s68RXoN.png "Xóa hóa chất")

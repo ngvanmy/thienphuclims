@@ -2,8 +2,8 @@
 
 Kiểm nghiệm viên sẽ nhận chỉ tiêu được phân và thực hiện kiểm nghiệm và trả kết quả kiểm nghiệm.
 
-![](/images/nghiep_vu/ket_qua_kiem_nghiem/index.png "Kết quả kiểm nghiệm")
+![](https://i.imgur.com/7KuuFQL.png "Danh sách chỉ tiêu kiểm nghiệm")
 
-Kiểm nghiệm viên nhập thông tin kết quả kiểm nghiệm và các tệp tin đính kèm.
+Kiểm nghiệm viên nhập thông tin kết quả kiểm nghiệm và các tệp tin đính kèm và gửi kết quả cho trưởng khoa.
 
-![](/images/nghiep_vu/ket_qua_kiem_nghiem/nhap_ket_qua.png "Nhập kết quả kiểm nghiệm")
+![](https://i.imgur.com/u0WpbHi.png "Nhập kết quả kiểm nghiệm")

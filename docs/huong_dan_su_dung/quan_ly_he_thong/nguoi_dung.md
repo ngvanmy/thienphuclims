@@ -4,6 +4,6 @@ Quản lý danh sách các tài khoản làm việc trên phần mềm THIEN PHU
 
 ![](https://imgur.com/MwbPoDu.png "Giao diện chính - Quản lý người dùng")
 
-![](/images/he_thong/nguoi_dung/create.png "Thêm mới/ cập nhật thông tin người dùng")
+![](https://i.imgur.com/2vwTwZd.png "Thêm mới/ cập nhật thông tin người dùng")
 
-![](/images/he_thong/nguoi_dung/delete.png "Xóa người dùng")
+![](https://i.imgur.com/NcSzJfF.png "Xóa người dùng")

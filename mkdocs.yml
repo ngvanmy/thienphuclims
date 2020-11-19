@@ -2,7 +2,8 @@ site_name: Thien Phuc LIMS
 nav:
     - Giới thiệu: index.md
     
-    - Hướng dẩn sử dụng: 
+    - Hướng dẩn sử dụng:
+  
       - Quản lý hệ thống:
         - Người dùng: huong_dan_su_dung/quan_ly_he_thong/nguoi_dung.md
         - Nhân viên: huong_dan_su_dung/quan_ly_he_thong/nhan_vien.md

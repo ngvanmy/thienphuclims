@@ -14,17 +14,19 @@ nav:
       - Quản lý danh mục:
         - Khách hàng: huong_dan_su_dung/quan_ly_danh_muc/khach_hang.md
         - Lĩnh vực: huong_dan_su_dung/quan_ly_danh_muc/linh_vuc.md
+        - Nhóm chỉ tiêu: huong_dan_su_dung/quan_ly_danh_muc/nhom_chi_tieu.md
         - Dịch vụ: huong_dan_su_dung/quan_ly_danh_muc/dich_vu.md
         - Dạng bào chế: huong_dan_su_dung/quan_ly_danh_muc/dang_bao_che.md
         - Hoạt chất: huong_dan_su_dung/quan_ly_danh_muc/hoat_chat.md
         - Tiêu chuẩn: huong_dan_su_dung/quan_ly_danh_muc/tieu_chuan.md
+        - Loại mẫu tiếp nhận: huong_dan_su_dung/quan_ly_danh_muc/loai_mau_tiep_nhan.md
         
       - Quản lý nghiệp vụ:
-        - Tiếp nhận mẫu: huong_dan_su_dung/quan_ly_nghiep_vu/tiep_nhan_mau.md
-        - Phòng kế hoạch: huong_dan_su_dung/quan_ly_nghiep_vu/phong_ke_hoach.md
+        - Tiếp nhận hồ sơ: huong_dan_su_dung/quan_ly_nghiep_vu/tiep_nhan_ho_so.md
+        - Dịch vụ kỹ thuật: huong_dan_su_dung/quan_ly_nghiep_vu/phong_dich_vu_ky_thuat.md
         - Tiếp nhận và phân mẫu: huong_dan_su_dung/quan_ly_nghiep_vu/tiep_nhan_va_phan_mau.md
-        - Kết quả kiểm nghiệm: huong_dan_su_dung/quan_ly_nghiep_vu/ket_qua_kiem_nghiem.md
-        - Giám đốc: huong_dan_su_dung/quan_ly_nghiep_vu/giam_doc.md
+        - Tổng hợp kết quả kiểm nghiệm: huong_dan_su_dung/quan_ly_nghiep_vu/tong_hop_ket_qua.md
+        - Duyệt kết quả kiểm nghiệm: huong_dan_su_dung/quan_ly_nghiep_vu/duyet_ket_qua.md
         
       - Quản lý cơ sở vật chất:
         - Thiết bị: huong_dan_su_dung/quan_ly_co_so_vat_chat/thiet_bi.md

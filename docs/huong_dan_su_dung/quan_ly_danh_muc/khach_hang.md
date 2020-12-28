@@ -2,10 +2,10 @@
 
 ## *Khách hàng*
 
-![](/images/danh_muc/khach_hang/index.png "Giao diện chính - Danh sách khách hàng")
+![](https://imgur.com/wTWWQBi.png "Giao diện chính - Danh sách khách hàng")
 
-![](/images/danh_muc/khach_hang/create.png "Thêm mới khách hàng")
+![](https://imgur.com/tSHugkd.png "Thêm mới khách hàng")
 
-![](/images/danh_muc/khach_hang/edit.png "Cập nhật thông tin khách hàng")
+![](https://imgur.com/FFRFbm9.png "Cập nhật thông tin khách hàng")
 
-![](/images/danh_muc/khach_hang/delete.png "Xóa thông tin khách hàng")
+![](https://imgur.com/mu3aa8A.png "Xóa thông tin khách hàng")

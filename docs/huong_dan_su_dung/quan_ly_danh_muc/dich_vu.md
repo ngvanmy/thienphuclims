@@ -2,8 +2,8 @@
 
 Quản lý danh sách các dịch vụ bao gồm: thêm mới, xóa dịch vụ.
 
-![](/images/danh_muc/dich_vu/index.png "Giao diện chính - Danh sách dịch vụ")
+![](https://imgur.com/xzAU4kK.png "Giao diện chính - Danh sách dịch vụ")
 
-![](/images/danh_muc/dich_vu/create.png "Thêm mới dịch vụ")
+![](https://imgur.com/jiz08yr.png "Thêm mới dịch vụ")
 
-![](/images/danh_muc/dich_vu/delete.png "Xóa dịch vụ")
+![](https://imgur.com/t8zlDmx.png "Xóa dịch vụ")

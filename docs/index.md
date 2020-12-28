@@ -19,7 +19,6 @@
   - Tiếp nhận hồ sơ
   - Dịch vụ kỹ thuật
   - Tiếp nhận và phân mẫu
-  - Kết quả kiểm nghiệm
   - Tổng hợp kết quả kiểm nghiệm
   - Duyệt kết quả kiểm nghiệm
 
